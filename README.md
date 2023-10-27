@@ -77,6 +77,7 @@ A correlation heatmap takes the correlation matrix and visualizes it using color
 
 ## Plot 3
 
+A histogram for the count of years in a dataset visually displays how frequently each year appears. Each bar represents a year, and its height indicates how many times that year occurs in the data. It provides a clear snapshot of the dataset's temporal distribution, helping to identify prevalent years and patterns quickly.
 ![WHORegion Count Plot](media/TBCases_histogram.png)
 
 
