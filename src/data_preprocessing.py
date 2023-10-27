@@ -13,7 +13,7 @@ class DataPreprocessor:
         """Helper function to print section headers."""
         print("\n\n", "* " * 10, header, "* " * 10)
     def preprocess_data(self):
-        """Preprocess the data by handling missing values, data type conversions, and more."""
+        """For data preprocessing, For now i added whatever techniques needed for my data set"""
         self._print_section_header("Data Preprocessing")
         print("\n\n BEFORE : ")
         print(self.data_frame.info())
@@ -25,9 +25,8 @@ class DataPreprocessor:
         print("\n\n BEFORE : ")
         print(self.data_frame.info())
         print("\n\n")
-        # Convert columns to appropriate data types if needed
+        # Convert columns to appropriate data types (in my case int type)
         self.data_frame['Year'] = self.data_frame['Year'].astype(int)
-        # Add more type conversions as necessary
         print("Data preprocessing completed.")
     
     def _handle_missing_values(self):
@@ -47,7 +46,3 @@ class DataPreprocessor:
         numeric_columns = self.data_frame.select_dtypes(include=['float64', 'int64']).columns
         self.data_frame[numeric_columns] = (self.data_frame[numeric_columns] - self.data_frame[numeric_columns].min()) / \
                                            (self.data_frame[numeric_columns].max() - self.data_frame[numeric_columns].min())
-
-df = pd.read_csv("/Users/varunreddyseelam/TBDataProject-main/data/TB_c_new_tsr,TB_c_ret_tsr,TB_c_tbhiv_tsr,TB_c_mdr_tsr,TB_c_xdr_tsr.csv")
-pp = DataPreprocessor(df)
-pp.preprocess_data()
