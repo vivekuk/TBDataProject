@@ -6,10 +6,10 @@ import seaborn as sns
 
 class DataVisualizer:
     """
-    A class for loading, describing, preprocessing data, and creating visualizations from a CSV file.
+    A class for visualizing the plots to explain relationship between features in the data set
 
     Parameters:
-        path (str): The file path to the CSV file.
+        data: dataframe
     """
     
     def __init__(self,data):
