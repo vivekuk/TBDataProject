@@ -24,3 +24,16 @@ Features :
 ```python
 # Install the requirements.txt packages.
 $ pip3 install -r requirements.txt
+```
+# Usage
+
+Terms:
+
+1. input_file_path: Absolute File Path of the input csv file.
+2. output_file_path: Directory for storring the plots.
+
+
+```python
+$ python3 run.py input_file_path output_file_path
+```
+
