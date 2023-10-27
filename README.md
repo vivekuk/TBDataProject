@@ -10,13 +10,13 @@ This dataset contains information about tuberculosis (TB) treatment success rate
 
 Features :
 
-1. WHO Region: The region to which the data belongs (e.g., Global, Africa, Americas, etc.).
-2. Year: The year in which the data was recorded.
-3. Treatment Success Rate for New TB Cases: Percentage of successful treatment outcomes for new TB cases.
-4. Treatment Success Rate for Previously Treated TB Cases: Percentage of successful treatment outcomes for previously treated TB cases.
-5. Treatment Success Rate for HIV-Positive TB Cases: Percentage of successful treatment outcomes for TB cases in patients who are HIV-positive.
-6. Treatment Success Rate for Patients Treated for MDR-TB (%): Percentage of successful treatment outcomes for multidrug-resistant TB (MDR-TB) cases.
-7. Treatment Success Rate for XDR-TB Cases: Percentage of successful treatment outcomes for extensively drug-resistant TB (XDR-TB) cases.
+1. WHO Region - DataType : Object : The region to which the data belongs (e.g., Global, Africa, Americas, etc.).
+2. Year  - DataType : INT64 : The year in which the data was recorded.
+3. Treatment Success Rate for New TB Cases  - DataType : INT64 : successful treatment outcomes for new TB cases.
+4. Treatment Success Rate for Previously Treated TB Cases  - DataType : INT64 : successful treatment outcomes for previously treated TB cases.
+5. Treatment Success Rate for HIV-Positive TB Cases - DataType : FLOAT64 : successful treatment outcomes for TB cases in patients who are HIV-positive.
+6. Treatment Success Rate for Patients Treated for MDR-TB (%) - DataType : FLOAT64 : Percentage of successful treatment outcomes for multidrug-resistant TB (MDR-TB) cases.
+7. Treatment Success Rate for XDR-TB Cases - DataType : FLOAT64 :successful treatment outcomes for extensively drug-resistant TB (XDR-TB) cases.
 
 
 # Setup
