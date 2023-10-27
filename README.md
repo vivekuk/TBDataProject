@@ -46,6 +46,33 @@ The provided count plot illustrates the distribution of the "WHO region" feature
 
 ## Plot 2
 
+A correlation heatmap is a graphical representation of the correlation matrix, showing how strongly different variables are related to one another. This visualization technique is particularly useful in statistics, data analysis, and machine learning to identify patterns, trends, and relationships within datasets.
+
+Here's a detailed explanation of correlation heatmap:
+
+### Understanding Correlation:
+
+Correlation measures the strength and direction of a linear relationship between two variables. It ranges from -1 to 1:
+
+-   Positive Correlation (1):   When one variable increases, the other variable tends to increase as well.
+-   Negative Correlation (-1):   When one variable increases, the other variable tends to decrease.
+-   No Correlation (0):   There is no linear relationship between the variables.
+
+### Correlation Matrix:
+
+In data analysis, you often deal with multiple variables. A correlation matrix is a table that shows the correlation coefficients between many variables. Each cell in the table represents the correlation between two variables.
+
+### Correlation Heatmap:
+
+A correlation heatmap takes the correlation matrix and visualizes it using colors. The heatmap provides a quick and easy way to identify patterns in the data. Here's how it works:
+
+-   Color Gradient:   The heatmap assigns a color gradient to the correlation values. Commonly, warm colors like red or orange represent positive correlations, while cool colors like blue represent negative correlations.
+  
+-   Intensity of Color:   The intensity or darkness of the color indicates the strength of the correlation. Stronger correlations (closer to -1 or 1) appear darker, making it easy to spot significant relationships in the data.
+
+-   Axes Labels:   The heatmap has the variables on both the X and Y axes, making it easy to identify which variables are being compared.
+
+
 ![WHORegion Count Plot](media/TBCases_heatmap.png)
 
 ## Plot 3
