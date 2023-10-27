@@ -60,7 +60,7 @@ Correlation measures the strength and direction of a linear relationship between
 
 ### Correlation Matrix:
 
-In data analysis, you often deal with multiple variables. A correlation matrix is a table that shows the correlation coefficients between many variables. Each cell in the table represents the correlation between two variables.
+In data analysis, we often deal with multiple variables. A correlation matrix is a table that shows the correlation coefficients between many variables. Each cell in the table represents the correlation between two variables.
 
 ### Correlation Heatmap:
 
@@ -90,7 +90,7 @@ A pair plot is a graphical representation in data analysis, showing scatter plot
 ## Plot 5
 
 
-A violin plot is a method of plotting numeric data and can be particularly useful when comparing the distribution of a numerical variable across different categories. In your case, you want to create a violin plot to compare the treatment success rates of HIV-positive cases across different WHO regions. Here's how you can interpret it:
+A violin plot is a method of plotting numeric data and can be particularly useful when comparing the distribution of a numerical variable across different categories. In wer case, we want to create a violin plot to compare the treatment success rates of HIV-positive cases across different WHO regions. Here's how we can interpret it:
 
 Interpreting a Violin Plot:
 1. Y-Axis:
@@ -124,7 +124,7 @@ the Western Pacific region.
 
 ## Plot 7
 
-A bar plot is a common way to represent categorical data. In your case, you want to create a bar plot to compare the treatment success rates of XDR TB (Extensively Drug-Resistant Tuberculosis) cases across different WHO regions. 
+A bar plot is a common way to represent categorical data. In wer case, we want to create a bar plot to compare the treatment success rates of XDR TB (Extensively Drug-Resistant Tuberculosis) cases across different WHO regions. 
 
 Bigger Bar (Western Pacific Region): A bigger bar for the Western Pacific region suggests a higher treatment success rate for XDR TB cases in this region.
 
