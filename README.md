@@ -19,3 +19,19 @@ Features :
 7. Treatment Success Rate for XDR-TB Cases: Percentage of successful treatment outcomes for extensively drug-resistant TB (XDR-TB) cases.
 
 
+# Setup
+
+## Usage Example
+
+### Python
+
+```python
+import pandas as pd
+
+# Load the dataset
+tb_data = pd.read_csv('tb_treatment_success_rate.csv')
+
+# Calculate the average treatment success rate for new TB cases globally
+global_new_tb_success_rate = tb_data.loc[tb_data['WHO Region'] == 'Global', 'Treatment Success Rate for New TB Cases'].mean()
+
+print(f'Average Treatment Success Rate for New TB Cases Globally: {global_new_tb_success_rate:.2f}%')
