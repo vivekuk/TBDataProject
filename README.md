@@ -37,3 +37,8 @@ Terms:
 >>> python3 run.py input_file_path output_file_path
 ```
 
+# Visualizing Data
+
+![WHORegion Count Plot][media/
+
+
