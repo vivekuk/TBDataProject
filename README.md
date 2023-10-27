@@ -39,6 +39,6 @@ Terms:
 
 # Visualizing Data
 
-![WHORegion Count Plot][media/
+![WHORegion Count Plot](media/WHORegion_countplot.png)
 
 
