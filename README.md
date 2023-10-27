@@ -124,6 +124,13 @@ the Western Pacific region.
 
 ## Plot 7
 
+A bar plot is a common way to represent categorical data. In your case, you want to create a bar plot to compare the treatment success rates of XDR TB (Extensively Drug-Resistant Tuberculosis) cases across different WHO regions. 
+
+Bigger Bar (Western Pacific Region): A bigger bar for the Western Pacific region suggests a higher treatment success rate for XDR TB cases in this region.
+
+Smaller Bar (Europe Region): A smaller bar for the Europe region indicates a comparatively lower treatment success rate for XDR TB cases in this region.
+
+
 ![WHORegion Count Plot](media/WHO_Region_vs_TSR_XDR_TB_cases.png)
 
 
