@@ -6,9 +6,9 @@
 
 This dataset contains information about tuberculosis (TB) treatment success rates across different regions and years. It includes data on new TB cases, previously treated TB cases, HIV-positive TB cases, multidrug-resistant TB (MDR-TB) cases, and extensively drug-resistant TB (XDR-TB) cases. The data is organized by the World Health Organization (WHO) regions: Global, Africa, Americas, South-East Asia, Europe, Eastern Mediterranean, and Western Pacific.
 
-## File Structure
+## Features Explination 
 
-Columns:
+Features :
 
 1. WHO Region: The region to which the data belongs (e.g., Global, Africa, Americas, etc.).
 2. Year: The year in which the data was recorded.
