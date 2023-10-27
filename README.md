@@ -65,11 +65,8 @@ The provided count plot illustrates the distribution of the "WHO region" feature
 
 ![WHORegion Count Plot](media/WHO_Region_vs_TSR_new_TB_cases.png)
 
+
 ## Plot 7
-
-![WHORegion Count Plot](media/WHO_Region_vs_TSR_XDR_TB_%_cases.png)
-
-## Plot 8
 
 ![WHORegion Count Plot](media/WHO_Region_vs_TSR_XDR_TB_cases.png)
 
