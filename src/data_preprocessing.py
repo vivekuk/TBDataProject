@@ -3,15 +3,24 @@ import pandas as pd
 
 class DataPreprocessor:
 
+     """
+    A class for preprocessing the dataset 
+    
+    Parameters:
+        data: dataframe
+    """
     
     def __init__(self, data):
         self.data_frame = data
+        
     def get_data(self):
         return self.data_frame
+        
     @staticmethod
     def _print_section_header(header: str):
         """Helper function to print section headers."""
         print("\n\n", "* " * 10, header, "* " * 10)
+        
     def preprocess_data(self):
         """For data preprocessing, For now i added whatever techniques needed for my data set"""
         self._print_section_header("Data Preprocessing")
