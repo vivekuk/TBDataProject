@@ -106,6 +106,19 @@ Width: Wider sections indicate a higher density of cases in that treatment succe
 
 ## Plot 6
 
+A box plot, also known as a box-and-whisker plot, is a graphical representation of the distribution of a dataset. It shows the minimum, first quartile, median (second quartile), third quartile, and maximum of a dataset. When comparing the treatment success rates of new TB cases across different WHO regions using a box plot, here's how we can interpret:
+
+Box plot:
+
+Height: The box represents the interquartile range (IQR), the range between the first quartile (Q1) and the third quartile (Q3). It contains the middle 50% of the data.
+
+Middle Line: The line inside the box represents the median treatment success rate for each WHO region.
+
+Wider Box (East Asia Region): A wider box indicates a larger interquartile range, suggesting higher variability in treatment success rates among new TB cases in the East Asia region.
+
+Lighter Box (Western Pacific Region): A lighter box implies a smaller interquartile range, indicating more consistency in treatment success rates among new TB cases in 
+the Western Pacific region.
+
 ![WHORegion Count Plot](media/WHO_Region_vs_TSR_new_TB_cases.png)
 
 
