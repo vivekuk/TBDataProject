@@ -46,4 +46,33 @@ The provided count plot illustrates the distribution of the "WHO region" feature
 
 ## Plot 2
 
+![WHORegion Count Plot](media/TBCases_heatmap.png)
+
+## Plot 3
+
+![WHORegion Count Plot](media/TBCases_histogram.png)
+
+
+## Plot 4
+
+![WHORegion Count Plot](media/TBCases_pairplot.png)
+
+## Plot 5
+
+![WHORegion Count Plot](media/WHO_Region_vs_TSR_HIV_PTB.png)
+
+## Plot 6
+
+![WHORegion Count Plot](media/WHO_Region_vs_TSR_new_TB_cases.png)
+
+## Plot 7
+
+![WHORegion Count Plot](media/WHO_Region_vs_TSR_XDR_TB_%_cases.png)
+
+## Plot 8
+
+![WHORegion Count Plot](media/WHO_Region_vs_TSR_XDR_TB_cases.png)
+
+
+
 
