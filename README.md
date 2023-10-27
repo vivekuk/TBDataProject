@@ -87,6 +87,9 @@ A pair plot is a graphical representation in data analysis, showing scatter plot
 
 ![WHORegion Count Plot](media/TBCases_pairplot.png)
 
+## Plot 5
+
+
 A violin plot is a method of plotting numeric data and can be particularly useful when comparing the distribution of a numerical variable across different categories. In your case, you want to create a violin plot to compare the treatment success rates of HIV-positive cases across different WHO regions. Here's how you can interpret it:
 
 Interpreting a Violin Plot:
@@ -98,7 +101,6 @@ Variable: The X-axis represents the different WHO regions.
 Categories: Each category on the X-axis corresponds to a specific WHO region.
 3. Violin Shape:
 Width: Wider sections indicate a higher density of cases in that treatment success rate range.
-## Plot 5
 
 ![WHORegion Count Plot](media/WHO_Region_vs_TSR_HIV_PTB.png)
 
