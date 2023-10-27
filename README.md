@@ -83,6 +83,8 @@ A histogram for the count of years in a dataset visually displays how frequently
 
 ## Plot 4
 
+A pair plot is a graphical representation in data analysis, showing scatter plots for variables in a dataset, organized in a grid. It compares every variable with every other variable, displaying correlations and distributions at once. Pair plots help identify patterns, relationships, and outliers in multivariate data, aiding in comprehensive insights.
+
 ![WHORegion Count Plot](media/TBCases_pairplot.png)
 
 ## Plot 5
