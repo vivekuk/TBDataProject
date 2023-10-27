@@ -44,5 +44,6 @@ The provided count plot illustrates the distribution of the "WHO region" feature
 
 ![WHORegion Count Plot](media/WHORegion_countplot.png)
 
+## Plot 2
 
 
