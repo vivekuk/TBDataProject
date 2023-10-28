@@ -1,5 +1,7 @@
 # Tuberculosis Treatment Success Rate 
 
+The aim of this analysis is to investigate the trends and disparities in tuberculosis (TB) treatment success rates across various WHO regions from 1995 to 2020. By utilizing the provided dataset, the objective is to identify patterns, assess the effectiveness of interventions, and understand the factors influencing TB treatment outcomes. Specifically, the study aims to explore variations in treatment success rates among different types of TB cases and geographical regions. Through this analysis, the goal is to gain valuable insights that can inform evidence-based policies and interventions to enhance TB treatment outcomes worldwide.
+
 # Data Set
 
 ## Overview 
