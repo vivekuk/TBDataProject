@@ -102,8 +102,9 @@ A violin plot is a method of plotting numeric data and can be particularly usefu
 2. In the Americas, the picture is different. Treatment success rates vary widely, resulting in a bulky distribution. On average, about 60% of cases are successfully treated.
 
 3. For Europe, Eastern Mediterranean, and South-East Asia, the average success rates reside in the mid-60s. These regions exhibit slender distributions, suggesting relatively stable treatment outcomes.
-4.
+  
 5. The Western Pacific region contrasts with a thicker distribution, indicating more variability in treatment success rates. On average, around 65% of cases are treated successfully here.
+   
 ![WHORegion Count Plot](media/WHO_Region_vs_TSR_HIV_PTB.png)
 
 ## Plot 6
