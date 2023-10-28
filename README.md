@@ -61,7 +61,7 @@ Correlation measures the strength and direction of a linear relationship between
 -   No Correlation (0):   There is no linear relationship between the variables.
 
 
-## understandings : From the heat map we can observe that,
+## Observations : From the heat map we can observe that,
 
 1. The correlation coefficient of 0.54 between Year and New TB Cases indicates a positive relationship, signifying that the number of new TB cases is consistently increasing year by year.
 
@@ -74,7 +74,7 @@ Correlation measures the strength and direction of a linear relationship between
 
 A histogram for the count of years in a dataset visually displays how frequently each year appears. Each bar represents a year, and its height indicates how many times that year occurs in the data. It provides a clear snapshot of the dataset's temporal distribution, helping to identify prevalent years and patterns quickly.
 
-##Observartions:
+## Observartions:
 
 The histogram reveals essential insights about the dataset. Firstly, it indicates that, on average, there are more than 13 reportings for each year. This suggests a consistent level of data collection and reporting activity across the years.
 
@@ -123,6 +123,7 @@ A box plot, also known as a box-and-whisker plot, is a graphical representation 
 
 ## Plot 7
 
+## Obeservations:
 A bar plot is a common way to represent categorical data. In wer case, we want to create a bar plot to compare the treatment success rates of XDR TB (Extensively Drug-Resistant Tuberculosis) cases across different WHO regions. 
 
 1. A bigger bar for the Western Pacific region suggests a higher treatment success rate for XDR TB cases in this region.
